@@ -60,7 +60,7 @@
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
         startupEmoji: true, // true or false
-        chatLink: "https://rawgit.com/BotFarofa/Farofa-Bot/master/lang/pt.json",
+        chatLink: "https://rawgit.com/K-popper/Farofa-Bot/master/lang/pt.json",
         scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
         maximumAfk: 60,
         afkRemoval: false,
