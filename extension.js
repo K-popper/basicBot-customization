@@ -55,7 +55,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-        botName: "Farofa's K-pop Bot",
+        botName: "Farofa's Bot",
         language: "portuguese",
         startupCap: 1, // 1-200
         startupVolume: 0, // 0-100
